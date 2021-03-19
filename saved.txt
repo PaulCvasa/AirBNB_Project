@@ -1,0 +1,22 @@
+2
+Paul Cvasa 1 0745429683
+Alina Stroe 2 0743245657
+2
+1 Timisoara Str.C.NegruzziNr.31 2
+0 
+2 Arad Str.PaciiNr.5 4
+0 
+3
+1 Bucuresti Str.Col.EnescuNr.10Bl.4Ap.7 3
+1 2020-12-4 2020-12-10
+
+1 Timisoara Blv.TakeIonescuNr.10Bl.13Ap.3 1
+0 
+2 Timisoara Blv.C.BrancoveanuNr.50 4
+1 2020-12-2 2020-12-6
+
+1
+2 Constanta Str.Acad.Remus-RaduletNr.12A 8
+0 
+1
+Marius Cvasa 0747702802
